@@ -1,0 +1,15 @@
+{% include 'header.html' %}
+
+  <navi>
+    {% block navi %}
+    <div id="word_navi">NAVI</div> 
+    <div id="word_bar">BAR</div>
+    {% endblock navi %}
+  </navi>
+
+  <div id="content">
+    {% block content %}
+    {% endblock content %}
+  </div>
+
+{% include 'footer.html' %}
