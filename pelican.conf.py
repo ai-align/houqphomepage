@@ -2,10 +2,8 @@
 AUTHOR = u'Qingping Hou'
 SITENAME = u"QingpingHou@homepage:"
 SITEURL = 'http://qingping-hou.appspot.com'
-#SITEURL = 'http://127.0.0.1:8000'
 
 GITHUB_URL = 'http://github.com/houqp/'
-#DISQUS_SITENAME = "blog-notmyidea"
 PDF_GENERATOR = False
 #RELATIVE_URLS = False
 REVERSE_CATEGORY_ORDER = True
