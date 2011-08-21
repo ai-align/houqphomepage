@@ -1,6 +1,28 @@
 {% extends "base.html" %}
 
+{% block navi %}
+    <ul>
+{%  for name, link in MENUITEMS %}
+      <li>
+        <a href="{{ link }}" onmouseover="cd_page('{{ name }}');" onmouseout="resume_title();"
+{%    if name == 'Home' %}
+          id="current_page"
+{%    endif %}
+          >{{ name }}</a>
+      </li>
+{%  endfor %}
+    </ul>
+{% endblock navi %}
+
+
 {% block content %}
-Under heavy construction!
+<h1><div id="prompt">~ $ </div><div id="command">_</div></h1>
+<article>
+{% for article in articles_page.object_list %}
+{% if article.title == 'index_content' %}
+{{ article.content }}
+{% endif %}
+{% endfor %}
+</article>
 {% endblock content %}
 

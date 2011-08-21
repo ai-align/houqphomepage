@@ -1,4 +1,189 @@
-html,body,header,footer,article,nav,h1,h2,h3,h4,p,form,fieldset,legend,a,hr {
+/* 
+
+Theme: scholar_cli
+Version: v0.9
+Author: Qingping Hou
+Email: dave2008713 [AT] gmail (dot) com
+
+*/
+
+html,body,header,footer,article,nav,h1,h2,h3,h4,p,form,fieldset,legend,a,hr,ul,li {
   margin:0;
   padding:0;
+}
+
+header, nav, footer, article, small {display:block;}
+
+html {
+  background-color:#000000;
+}
+
+body {
+  margin:1em auto;
+  padding:0 1em;
+  padding-bottom:1em;
+  font-family:Tahoma,Verdana,STHeiTi,simsun,sans-serif;
+  background-color:#FFFFFF;
+  max-width:880px;
+  border-radius:0.5em;
+}
+
+::selection {
+background-color:rgba(0,0,0,0.85);
+color:#7ac000;
+}
+
+a {
+  padding:0 0.2em;
+  color: rgb(108, 10, 10);
+}
+
+a:link {
+  text-decoration:none; 
+}
+
+a:hover {
+  border-radius:5px;
+  background-color:rgba(0,0,0,0.2);
+}
+
+li {
+  margin:0.5em 0;
+}
+
+/*=== navi bar ===*/
+nav {
+  padding-top:0.7em;
+}
+
+nav ul {
+  text-align:center;
+}
+
+nav li {
+  display:inline;
+  list-style:none;
+}
+
+nav a {
+  padding:0 0.3em;
+  font-weight:bold;
+  color:#2A2A2A;
+}
+
+nav a:hover {
+  border-top:5px solid;
+  border-color:#ADADAD;
+  color:#ADADAD;
+  background-color:#000000;
+  border-radius:0;
+}
+
+#current_page {
+  border-top:5px solid;
+  border-color:rgb(175, 224, 145);
+  background-color:#2A2A2A;
+  color:#FFF;
+}
+
+/*=== header ===*/
+header {
+  padding:0 1em;
+  padding-top:1em;
+  background-color:#2A2A2A;
+  color:rgb(175, 224, 145);
+}
+
+/*=== content ===*/
+#content_body {
+}
+
+#content_body p {
+  margin:0.6em 0;
+}
+
+#content_body>h1 {
+  margin-bottom:1em;
+  padding:0 0.5em;
+  padding-bottom:0.5em;
+  background-color:#2A2A2A;
+}
+
+#content_body>h1>div {
+  display:inline;
+}
+
+#prompt {
+  color:rgb(80, 109, 255);
+}
+
+#command {
+  color:rgb(175, 224, 145);
+}
+
+#content_body article {
+  padding:1em;
+  padding-top:0;
+}
+
+.section>h2 {
+  margin-top:1em;
+}
+
+.section>h2:before {
+  content:"{";
+  color:#ADADAD;
+  margin-right:0.3em;
+}
+
+.section>h2:after {
+  color:#ADADAD;
+  content:"}";
+  float:right;
+}
+
+.align-center {
+  margin-right:auto;
+  margin-left:auto;
+  float:center;
+}
+
+#content_body .figure {
+  display:block;
+  text-align:center;
+  margin-top:2em;
+  margin-bottom:2em;
+}
+
+#content_body img {
+  background-color:#E8E8E8;
+  border-radius:10px;
+  padding:0.5em;
+  box-shadow:2px 2px 10px rgba(0,0,0,0.7);
+}
+
+#content_body .figure p:before {
+  margin-right:0.3em;
+  font-size:1.5em;
+  content:"/*";
+  color:#ADADAD;
+}
+
+#content_body .figure p:after {
+  font-size:1.5em;
+  content:"*/";
+  color:#ADADAD;
+}
+
+/*=== footer ===*/
+footer {
+  margin:2em;
+  margin-bottom:0;
+  text-align:right;
+}
+
+footer .warrning {
+  margin-top:1em;
+  text-align:center;
+  font-size:0.5em;
 }

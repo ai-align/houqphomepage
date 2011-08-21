@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Qingping's Page</title><link href="http://qingpinghou.appspot.com" rel="alternate"></link><link href="http://qingpinghou.appspot.com/feeds/all.atom.xml" rel="self"></link><id>http://qingpinghou.appspot.com</id><updated>2011-08-19T09:31:31Z</updated></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>QingpingHou@homepage:</title><link href="http://127.0.0.1:8000" rel="alternate"></link><link href="http://127.0.0.1:8000/feeds/all.atom.xml" rel="self"></link><id>http://127.0.0.1:8000</id><updated>2011-08-22T00:39:45Z</updated><entry><title>index_content</title><link href="http://127.0.0.1:8000/index_content.html" rel="alternate"></link><updated>2011-08-22T00:39:45Z</updated><author><name>Qingping Hou</name></author><id>tag:127.0.0.1,2011-08-22:/index_content.html/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Welcome to my page!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This site is still under heavy construction.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You may also want to take a look at my &lt;a class="reference external" href="http://www.houqp.com"&gt;Blog&lt;/a&gt; and &lt;a class="reference external" href="http://notes.houqp.com"&gt;Wiki&lt;/a&gt; which are mainly written in Chinese.&lt;/p&gt;
+&lt;div class="section" id="about-me"&gt;
+&lt;h2&gt;About Me&lt;/h2&gt;
+&lt;p&gt;A boy who dreams to be a real Geek and Hacker.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="research-interests"&gt;
+&lt;h2&gt;Research Interests&lt;/h2&gt;
+&lt;p&gt;My research interests include &lt;strong&gt;Network Security, Cryptography, Security in Virtual Machine, Overflow Attack, Anticensorship, Computer Network and Operating System&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry></feed>
