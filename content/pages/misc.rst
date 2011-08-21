@@ -10,7 +10,7 @@ Interests
 
  - I **paint** in my spare time, part of my works can be found here__.
 
- - Besides all the above, I love **travel** and meet all kinds of people during the trip.
+ - Besides all the above, I love **travel** and hiking. It's great to meet all kinds of people during the trip.
 
 .. __: ../pages/painting.html
 
