@@ -19,6 +19,9 @@ html {
   background-color:#000000;
 }
 
+body, a:hover {
+}
+
 body {
   margin:1em auto;
   padding:0 1em;
@@ -103,14 +106,14 @@ header {
   margin:0.6em 0;
 }
 
-#content_body>h1 {
+#content_body h1 {
   margin-bottom:1em;
   padding:0 0.5em;
   padding-bottom:0.5em;
   background-color:#2A2A2A;
 }
 
-#content_body>h1>div {
+#content_body h1 div {
   display:inline;
 }
 
@@ -127,17 +130,17 @@ header {
   padding-top:0;
 }
 
-.section>h2 {
+.section h2 {
   margin-top:1em;
 }
 
-.section>h2:before {
+.section h2:before {
   content:"{";
   color:#ADADAD;
   margin-right:0.3em;
 }
 
-.section>h2:after {
+.section h2:after {
   color:#ADADAD;
   content:"}";
   float:right;
