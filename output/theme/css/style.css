@@ -19,12 +19,6 @@ html {
   background-color:#000000;
 }
 
-body, a:hover, ::selection, .section h2:before, .section h2:after, #content_body img, #content_body .figure p:before, #content_body .figure p:after {
-  position:relative;
-  z-index:10;
-  behavior: url(ie-css3.htc);
-}
-
 body {
   margin:0 auto;
   padding:0 1em;
