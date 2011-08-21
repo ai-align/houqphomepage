@@ -7,10 +7,6 @@ Email: dave2008713 [AT] gmail (dot) com
 
 */
 
-* {
-  behavior: url(ie-css3.htc);
-}
-
 html,body,header,footer,article,nav,h1,h2,h3,h4,p,form,fieldset,legend,a,hr,ul,li {
   margin:0;
   padding:0;
