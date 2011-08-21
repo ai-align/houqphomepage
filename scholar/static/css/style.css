@@ -10,20 +10,21 @@ Email: dave2008713 [AT] gmail (dot) com
 html,body,header,footer,article,nav,h1,h2,h3,h4,p,form,fieldset,legend,a,hr,ul,li {
   margin:0;
   padding:0;
-  behavior: url(ie-css3.htc);
 }
 
 header, nav, footer, article, small {display:block;}
 
 html {
+  padding:1em;
   background-color:#000000;
 }
 
-body, a:hover {
+body, a:hover, ::selection, .section h2:before, .section h2:after, #content_body img, #content_body .figure p:before, #content_body .figure p:after {
+  behavior: url(ie-css3.htc);
 }
 
 body {
-  margin:1em auto;
+  margin:0 auto;
   padding:0 1em;
   padding-bottom:1em;
   font-family:Tahoma,Verdana,STHeiTi,simsun,sans-serif;
@@ -99,9 +100,6 @@ header {
 }
 
 /*=== content ===*/
-#content_body {
-}
-
 #content_body p {
   margin:0.6em 0;
 }
