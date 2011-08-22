@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>QingpingHou@homepage:</title><link>http://about.houqp.me</link><description></description><atom:link href="http://about.houqp.me/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 22 Aug 2011 00:39:45 -0000</lastBuildDate><item><title>index_content</title><link>http://about.houqp.me/index_content.html</link><description>&lt;p&gt;&lt;strong&gt;Welcome to my page!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This site is still under heavy construction.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You may also want to take a look at my &lt;a class="reference external" href="http://www.houqp.com"&gt;Blog&lt;/a&gt; and &lt;a class="reference external" href="http://notes.houqp.com"&gt;Wiki&lt;/a&gt; which are mainly written in Chinese.&lt;/p&gt;
+&lt;div class="section" id="about-me"&gt;
+&lt;h2&gt;About Me&lt;/h2&gt;
+&lt;p&gt;A boy who dreams to be a real Geek and Hacker.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="research-interests"&gt;
+&lt;h2&gt;Research Interests&lt;/h2&gt;
+&lt;p&gt;My research interests include &lt;strong&gt;Network Security, Cryptography, Security in Virtual Machine, Overflow Attack, Anticensorship, Computer Network and Operating System&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Qingping Hou</dc:creator><pubDate>Mon, 22 Aug 2011 00:39:45 -0000</pubDate></item></channel></rss>

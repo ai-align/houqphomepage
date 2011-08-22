@@ -23,7 +23,8 @@ MENUITEMS = (('Home', SITEURL),
              ('Teaching', SITEURL + '/pages/teaching.html'),
              ('Software', SITEURL + '/pages/software.html'),
              ('Vita', SITEURL + '/pages/vita.html'),
-             ('Misc', SITEURL + '/pages/misc.html'),)
+             ('Misc', SITEURL + '/pages/misc.html'),
+             ('Courses', SITEURL + '/pages/courses.html'),)
 
 # static paths will be copied under the same name
 STATIC_PATHS = ["pictures",]

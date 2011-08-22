@@ -13,7 +13,7 @@ Educational background
 ======================
  - | *Sep 2008 - Present*
    | **B.S.** in Computational Science, School of Mathematics and Computational Science, Sun Yat-sen University. 
-   | Grade 86/100 (Overall), 88/100 (Major)
+   | Grade 86/100 (Overall), 88/100 (Major), 89/100 (Junior & Senior)
 
 .. Research Interests
 .. ==================
@@ -35,6 +35,7 @@ Teaching
 
  - | *Jul 2011 - Aug 2011*
    | **Teaching Assistant**, Sun Yat-sen University, undergraduate "Network Security" (Google Open Course)
+   | My work includes collecting course materials, writing documents and giving the lecture on chaper4 "Introduction to Network Security".
 
 More
 ------
