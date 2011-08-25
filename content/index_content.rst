@@ -17,4 +17,6 @@ A boy who dreams to be a real Geek and Hacker.
 
 Research Interests
 ==================
-My research interests include **Network Security, Cryptography, Security in Virtual Machine, Overflow Attack, Anticensorship, Computer Network and Operating System**.
+My research interests include **Network Security, Computer Security, Cryptography, Virtualization, Computer Network and Operating System**.
+
+.. My research interests include **Network Security, Cryptography, Security in Virtual Machine, Overflow Attack, Anticensorship, Computer Network and Operating System**.

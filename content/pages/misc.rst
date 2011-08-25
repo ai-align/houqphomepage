@@ -1,8 +1,18 @@
 Misc
 ####
 
-Interests
-=========
+More about me on CS
+===================
+
+I fall in love with computer since kindergarden when I first played a RPG game with it.
+
+Now, I am a **GNU/Linux** user and a believer in **freesoftware** (Also known as opensource, but not exactly the same thing as RMS would say). 
+
+I use freesoftwares to complete nearly all my daily works and contribute back as much as I can. I do so not only because freesoftware sounds morally right but also because using freesoftwares can greatly increase my work effecience. Moreover, I can always learn a lot and meet many interesting people when participating in freesoftware projects.
+
+
+Interests outside cyberspace
+================================================
 
  - When I have time, I will go to **soccer** field and have a nice game. Or if I am busy, **Taichi** will be another way for me to exercise. In a word, I cannot live without sport! :-)
 

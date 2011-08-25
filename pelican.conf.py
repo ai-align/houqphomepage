@@ -15,13 +15,13 @@ FEED_RSS = 'feeds/all.rss.xml'
 FEED = 'feeds/all.atom.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
-THEME = '/home/dave/documents/code/web/houqp.org/scholar'
+THEME = '/home/dave/documents/code/web/houqp.me/scholar'
 CSS_FILE = 'style.css'
 
 MENUITEMS = (('Home', SITEURL),
              #('Research', SITEURL + '/pages/research.html'),
              ('Teaching', SITEURL + '/pages/teaching.html'),
-             ('Software', SITEURL + '/pages/software.html'),
+             ('Codes', SITEURL + '/pages/codes.html'),
              ('Vita', SITEURL + '/pages/vita.html'),
              ('Misc', SITEURL + '/pages/misc.html'),)
              #('Courses', SITEURL + '/pages/courses.html'),)

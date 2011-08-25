@@ -13,7 +13,7 @@ Educational background
 ======================
  - | *Sep 2008 - Present*
    | **B.S.** in Computational Science, School of Mathematics and Computational Science, Sun Yat-sen University. 
-   | Grade 86/100 (Overall), 88/100 (Major), 89/100 (Junior & Senior)
+   | Grading scale 86/100 (Over-all), 88/100 (Major), 89/100 (Junior & Senior)
 
 .. Research Interests
 .. ==================
@@ -42,6 +42,9 @@ More
 
  - | *Sep 2009 - Oct 2009*
    | **Website developer** for School of Marine, Sun Yat-sen University.
+
+.. Volunteer work
+.. -------------
 
  - | *Jun 2009 - Jul 2009*
    | Teach in Gui Zhou province as a volunteer.
