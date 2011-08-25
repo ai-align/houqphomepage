@@ -1,7 +1,7 @@
 Vita
 ################
 
-Personal Information
+Personal information
 ====================
  - Name: Qingping Hou
  - Gender: Male
@@ -9,7 +9,7 @@ Personal Information
  - Email:qingping.hou {AT} gmail (dot) com
  - Website:qingping-hou.appspot.com
 
-Educational background
+Education
 ======================
  - | *Sep 2008 - Present*
    | **B.S.** in Computational Science, School of Mathematics and Computational Science, Sun Yat-sen University. 
@@ -79,7 +79,7 @@ Membership & Affiliations
  - | *Sep 2008 - Sep 2009* 
    | Network department of student union in Sun Yat-sen University
 
-Standard Test
+Standard test
 =============
  - GRE V 630, Q 800, AW 4
  - TOEFL 103
