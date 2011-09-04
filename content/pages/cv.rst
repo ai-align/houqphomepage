@@ -7,13 +7,16 @@ Personal information
  - Gender: Male
  - Date of Birth: Oct 30 1989
  - Email:qingping.hou {AT} gmail (dot) com
- - Website:qingping-hou.appspot.com
+ - Website:about.houqp.me
 
 Education
 ======================
  - | *Sep 2008 - Present*
    | **B.S.** in Computational Science, School of Mathematics and Computational Science, Sun Yat-sen University. 
    | Grading scale 86/100 (Over-all), 88/100 (Major), 89/100 (Junior & Senior)
+
+ - | *Mar 2010 - Jun 2010*
+   | Exchange to Jilin University for one semester.
 
 .. Research Interests
 .. ==================
