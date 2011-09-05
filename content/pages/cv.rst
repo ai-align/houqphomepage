@@ -40,6 +40,9 @@ Teaching
    | **Teaching Assistant**, Sun Yat-sen University, undergraduate "Network Security" (Google Open Course)
    | My work includes collecting course materials, writing documents and giving the lecture on chaper4 "Introduction to Network Security".
 
+ - | *Jun 2009 - Jul 2009*
+   | Teach in Kaili city, Gui Zhou province as a volunteer.
+
 More
 ------
 
