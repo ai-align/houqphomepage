@@ -32,7 +32,6 @@ Research
 
   Together with other students in the lab, we developed a demo for Trusted Operating System based on Linux.
 
-
 Teaching
 --------
 
@@ -40,20 +39,17 @@ Teaching
    | **Teaching Assistant**, Sun Yat-sen University, undergraduate "Network Security" (Google Open Course)
    | My work includes collecting course materials, writing documents and giving the lecture on chaper4 "Introduction to Network Security".
 
+Extracurricular activities
+--------------------------
+
  - | *Jun 2009 - Jul 2009*
-   | Teach in Kaili city, Gui Zhou province as a volunteer.
+   | **Teach** in Kaili city, Gui Zhou province as a **volunteer**.
 
 More
 ------
 
  - | *Sep 2009 - Oct 2009*
    | **Website developer** for School of Marine, Sun Yat-sen University.
-
-.. Volunteer work
-.. -------------
-
- - | *Jun 2009 - Jul 2009*
-   | Teach in Gui Zhou province as a volunteer.
 
 .. Book Chapter
 .. ============
@@ -68,8 +64,12 @@ Honors
  - | *2010*
    | Outstanding student scholarship of Sun Yat-sen University (The Third Prize).
 
+ - | *May 2010*
+   | Outstanding team in the third Google public welfare creativity competition.
+
  - | *2009*
    | Outstanding student scholarship of Sun Yat-sen University (The Third Prize).
+
 
 Membership & Affiliations
 =========================
