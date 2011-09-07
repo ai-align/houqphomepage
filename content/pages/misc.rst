@@ -10,6 +10,9 @@ Now, I am a **GNU/Linux** user and a believer in **freesoftware** (Also known as
 
 I use freesoftwares to complete nearly all my daily works and contribute back as much as I can. I do so not only because freesoftware sounds morally right but also because using freesoftwares can greatly increase my work effecience. Moreover, I can always learn a lot and meet many interesting people when participating in freesoftware projects.
 
+Some links:
+ - My coderwall_.
+.. _coderwall: http://coderwall.com/houqp
 
 Interests outside cyberspace
 ================================================
