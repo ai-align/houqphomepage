@@ -13,7 +13,7 @@ Education
 ======================
  - | *Sep 2008 - Present*
    | **B.S.** in Computational Science, School of Mathematics and Computational Science, Sun Yat-sen University. 
-   | Grading scale 86/100 (Over-all), 88/100 (Major), 89/100 (Junior & Senior)
+   | Grading scale 86/100 (Over-all), 88/100 (Major), 89/100 (Junior)
 
  - | *Mar 2010 - Jun 2010*
    | Exchange to Jilin University for one semester.
@@ -87,8 +87,10 @@ Membership & Affiliations
 
 Standard test
 =============
- - GRE V 630, Q 800, AW 4
- - TOEFL 103
+ - GRE V 630(91%), Q 800(94%), AW 4(45%)
+ - TOEFL 103 (Reading 29, Listening 28, Speaking 22, Writing 24)
+
+.. TOEFL 2011/2/26
 
 Interests 
 ==================
