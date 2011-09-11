@@ -90,7 +90,8 @@ Standard test
  - GRE V 630(91%), Q 800(94%), AW 4(45%)
  - TOEFL 103 (Reading 29, Listening 28, Speaking 22, Writing 24)
 
-.. TOEFL 2011/2/26
+.. GRE  2010/10/23
+.. TOEFL 2011/02/26
 
 Interests 
 ==================
