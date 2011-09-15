@@ -47,13 +47,13 @@ Misc
 
  - | Ebuilds that I wrote:
 
-     - bibdb-0.1.2_pre.ebuild_
-     - pelican-2.7.2.ebuild_
-     - feedgenerator-1.2.1.ebuild_
-     - markdown2-1.0.1.19.ebuild_
+     - bibdb__
+     - pelican_
+     - feedgenerator_
+     - markdown2_ now in portage
 
-.. _bibdb-0.1.2_pre.ebuild: https://bugs.gentoo.org/show_bug.cgi?id=379531
-.. _pelican-2.7.2.ebuild: https://bugs.gentoo.org/show_bug.cgi?id=379671
-.. _feedgenerator-1.2.1.ebuild: https://bugs.gentoo.org/show_bug.cgi?id=379701
-.. _markdown2-1.0.1.19.ebuild: https://bugs.gentoo.org/show_bug.cgi?id=382575
+.. __: https://bugs.gentoo.org/show_bug.cgi?id=379531
+.. _pelican: https://bugs.gentoo.org/show_bug.cgi?id=379671
+.. _feedgenerator: https://bugs.gentoo.org/show_bug.cgi?id=379701
+.. _markdown2: https://bugs.gentoo.org/show_bug.cgi?id=382575
 
