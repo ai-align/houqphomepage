@@ -45,12 +45,12 @@ As Contributor
 Misc
 ====
 
- - | Ebuilds that I wrote:
+ - | I've written ebuilds for following softwares:
 
      - bibdb__
      - pelican_
      - feedgenerator_
-     - markdown2_ now in portage
+     - markdown2_ now in portage :-)
 
 .. __: https://bugs.gentoo.org/show_bug.cgi?id=379531
 .. _pelican: https://bugs.gentoo.org/show_bug.cgi?id=379671
