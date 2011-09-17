@@ -4,7 +4,7 @@ Misc
 More about me on CS
 ===================
 
-I fall in love with computer since kindergarden when I first played a RPG game with it.
+I fall in love with computer since kindergarden when I first played a RPG game in it.
 
 Now, I am a **GNU/Linux** user and a believer in **freesoftware** (Also known as opensource, but not exactly the same thing as RMS would say). 
 
