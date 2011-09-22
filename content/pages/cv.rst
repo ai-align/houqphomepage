@@ -45,12 +45,6 @@ Extracurricular activities
  - | *Jun 2009 - Jul 2009*
    | **Teach** in Kaili city, Gui Zhou province as a **volunteer**.
 
-More
-------
-
- - | *Sep 2009 - Oct 2009*
-   | **Website developer** for School of Marine, Sun Yat-sen University.
-
 .. Book Chapter
 .. ============
 
