@@ -23,7 +23,6 @@ Education
 
 Experience
 ==========
-|
 
 Research 
 -------------------
