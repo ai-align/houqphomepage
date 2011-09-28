@@ -1,8 +1,11 @@
 .PHONY:all clean push test
 
-all:test
+all:generate_site make_cv
 
-generate:houqp.me appengine
+generate_site:houqp.me appengine
+
+make_cv:
+	cd cv && make
 
 houqp.me:content/*
 	sed -e s@10/10/1010@`date +%m/%d/%Y`@ pelican.conf.py > tmp_pelican.conf.py
@@ -28,3 +31,4 @@ push:
 
 clean:
 	rm -rf output appengine houqp.me
+	cd cv && make clean
