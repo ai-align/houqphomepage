@@ -7,7 +7,6 @@ Personal information
  - Gender: Male
  - Date of Birth: Oct 30 1989
  - Email: qingping.hou {AT} gmail (dot) com
- - Website: about.houqp.me
 
 Education
 ======================
@@ -41,6 +40,9 @@ Teaching
 Extracurricular activities
 --------------------------
 
+ - | *Jan 2011 - Sep 2011*
+   | Organize serval events for local **LUG** as **volunteer**, including Software Freedom Day.
+
  - | *Jun 2009 - Jul 2009*
    | **Teach** in Kaili city, Gui Zhou province as a **volunteer**.
 
@@ -69,7 +71,7 @@ Membership & Affiliations
  - | *Jul 2010 - Present* 
    | Guangdong Key Laboratory of Information Security Technology
 
- - | *Oct 2008 - Present* 
+ - | *Oct 2008 - Sep 2011* 
    | Network center of Sun Yat-sen University
 
  - | *Oct 2008 - Oct 2010* 
