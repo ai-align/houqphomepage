@@ -27,7 +27,7 @@ MENUITEMS = (('Home', SITEURL),
              #('Courses', SITEURL + '/pages/courses.html'),)
 
 # static paths will be copied under the same name
-STATIC_PATHS = ["pictures",]
+STATIC_PATHS = ["pictures", "download"]
 
 # A list of files to copy from the source to the destination
 FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),)
