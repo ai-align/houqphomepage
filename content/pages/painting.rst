@@ -26,5 +26,5 @@ I started to learn traditional painting when I was seven years old, but now I ma
    :alt: copy WOW
    :align: center
 
-   Paint according to a WOW's CG, and I also made some modification.
+   Paint according to a WOW's CG, and I also made some modifications.
 
