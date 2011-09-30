@@ -43,6 +43,13 @@
   \ifthenelse{\isundefined{#1}}{\newlength{#1}\setlength{#1}{#2}}{}
 }
 
+% fieldlist environment
+\ifthenelse{\isundefined{\DUfieldlist}}{
+  \newenvironment{DUfieldlist}%
+    {\quote\description}
+    {\enddescription\endquote}
+}{}
+
 % lineblock environment
 \DUprovidelength{\DUlineblockindent}{2.5em}
 \ifthenelse{\isundefined{\DUlineblock}}{
