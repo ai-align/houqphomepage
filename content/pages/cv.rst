@@ -34,7 +34,7 @@ Teaching
 --------
 
  - | *Jul 2011 - Aug 2011*
-   | **Teaching Assistant**, Sun Yat-sen University, undergraduate "Network Security" (Google Open Course)
+   | **Teaching Assistant**, Sun Yat-sen University, undergraduate "Modern Website Security Technology" (Google Open Course)
    | My work includes collecting course materials, writing documents and giving the lecture on chaper4 "Introduction to Network Security".
 
 Extracurricular activities
