@@ -3,17 +3,21 @@ index_content
 
 **Welcome to my page!**
 
-**This site is still under heavy construction.**
+About Me
+========
 
+.. figure:: pictures/houqp.jpg
+   :scale: 100 %
+   :alt: houqp
+   :align: center
+ 
+An old boy who dreams to become a real Geek and Hacker.
 
 You may also want to take a look at my Blog_ and Wiki_ which are mainly written in Chinese.
 
 .. _Blog: http://www.houqp.com
 .. _Wiki: http://notes.houqp.com
 
-About Me
-========
-An old boy who dreams to become a real Geek and Hacker.
 
 Research Interests
 ==================

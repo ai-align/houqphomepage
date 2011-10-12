@@ -11,10 +11,10 @@ Personal information
 Education
 ======================
  - | *Sep 2008 - Present*
-   | **B.S.** in Computational Science, School of Mathematics and Computational Science, Sun Yat-sen University. 
+   | **B.S.** in Information and Computational Science, School of Mathematics and Computational Science, Sun Yat-sen University. 
    | Grading scale 86/100 (Over-all), 88/100 (Major), 89/100 (Junior)
 
- - | *Mar 2010 - Jun 2010*
+ - | *Mar 2010 - Jul 2010*
    | Exchange to Jilin University for one semester.
 
 .. Research Interests
@@ -26,9 +26,9 @@ Experience
 Research 
 -------------------
 
-  I joined Guangdong Key Laboratory of Information Security Technology in July 2010. From there, I studied Trusted Computing, Secure Operating System, Cryptography, ACL, Network Vulnerability. 
+  I joined Guangdong Key Laboratory of Information Security Technology in July 2010. My research group focus on Trusted Computing, Secure Operating System, Cryptography, ACL and Network Vulnerability. 
 
-  Together with other students in the lab, we developed a demo for Trusted Operating System based on Linux.
+  Together with other researchers in the lab, we developed a demo for Trusted Operating System based on Linux.
 
 Teaching
 --------
@@ -41,7 +41,7 @@ Extracurricular activities
 --------------------------
 
  - | *Jan 2011 - Sep 2011*
-   | Organize serval events for local **LUG** as **volunteer**, including Software Freedom Day.
+   | Organize serval events for local **LUG** as **volunteer**, including Software Freedom Day, Ubuntu Release Party, etc.
 
  - | *Jun 2009 - Jul 2009*
    | **Teach** in Kaili city, Gui Zhou province as a **volunteer**.
