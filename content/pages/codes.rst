@@ -1,7 +1,7 @@
 Codes
 ########
 
-This pages list softwares that I wrote for fun. Since I love freesoftware, I also contribute to some interesting projects.
+This page lists softwares that I wrote for fun. Since I love freesoftware, I also contribute to some interesting projects.
 
 You should be able to find some of my codes in `my github page`_.
 
