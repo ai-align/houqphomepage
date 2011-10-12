@@ -3,14 +3,15 @@ index_content
 
 **Welcome to my page!**
 
-About Me
-========
-
 .. figure:: pictures/houqp.jpg
    :scale: 100 %
    :alt: houqp
    :align: center
- 
+
+
+About Me
+========
+
 An old boy who dreams to become a real Geek and Hacker.
 
 You may also want to take a look at my Blog_ and Wiki_ which are mainly written in Chinese.
