@@ -4,7 +4,6 @@ Vita
 Personal information
 ====================
 :Name:          Qingping Hou
-:Gender:        Male
 :Date of Birth: Oct 30 1989
 :Email:         qingping.hou {AT} gmail (dot) com
 
