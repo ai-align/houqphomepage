@@ -25,7 +25,7 @@ Experience
 Research 
 -------------------
 
-   In July 2010, I joined Guangdong Key Laboratory of Information Security Technology. My research group focuses on Trusted Computing, Secure Operating System, Cryptography, ACL and Network Vulnerability Analysis. 
+  In July 2010, I joined Guangdong Key Laboratory of Information Security Technology. My research group focuses on Trusted Computing, Secure Operating System, Cryptography, ACL and Network Vulnerability Analysis. 
 
   Together with other researchers in the lab, we developed a demo for Trusted Operating System based on Linux.
 
@@ -43,7 +43,7 @@ Extracurricular activities
    | Organized five events for local **LUG** as a **volunteer**, including Software Freedom Day, Ubuntu Release Party, etc.
 
  - | *Jun 2009 - Jul 2009*
-   | **Teach** in Kaili city, Guizhou Province as a **volunteer**.
+   | **Taught** in Kaili city, Guizhou Province as a **volunteer**.
 
 .. Book Chapter
 .. ============
@@ -68,19 +68,19 @@ Honors
 Membership & Affiliations
 =========================
  - | *Jul 2010 - Present* 
-   | Research Assistant, Guangdong Key Laboratory of Information Security Technology
+   | Guangdong Key Laboratory of Information Security Technology, Research Assistant
 
  - | *Dec 2008 - Present* 
-   | Member, MCDoing studio of school of Mathematics, Sun Yat-sen University
+   | MCDoing studio of school of Mathematics, Sun Yat-sen University, Member
 
  - | *Oct 2008 - Sept 2011* 
-   | Student Network Administrator, Network center of Sun Yat-sen University
+   | Network center of Sun Yat-sen University, Student Network Administrator 
 
  - | *Oct 2008 - Oct 2010* 
-   | Teacher and Technical Adviser, Volunteer teaching team of Sun Yat-sen University
+   | Volunteer teaching team of Sun Yat-sen University, Teacher and Technical Adviser
 
  - | *Sept 2008 - Sept 2009* 
-   | Chief Programmer, Network department of student union in Sun Yat-sen University
+   | Network department of student union in Sun Yat-sen University, Chief Programmer
 
 Standard test
 =============
