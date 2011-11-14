@@ -25,7 +25,7 @@ Experience
 Research 
 -------------------
 
-  I joined Guangdong Key Laboratory of Information Security Technology in July 2010. My research group focus on Trusted Computing, Secure Operating System, Cryptography, ACL and Network Vulnerability Analysis. 
+   In July 2010, I joined Guangdong Key Laboratory of Information Security Technology. My research group focuses on Trusted Computing, Secure Operating System, Cryptography, ACL and Network Vulnerability Analysis. 
 
   Together with other researchers in the lab, we developed a demo for Trusted Operating System based on Linux.
 
@@ -33,17 +33,17 @@ Teaching
 --------
 
  - | *Jul 2011 - Aug 2011*
-   | **Teaching Assistant**, Sun Yat-sen University, undergraduate "Modern Website Security Technology" (Google Open Course)
+   | **Teaching Assistant**, "Modern Website Security Technology" (Google Open Course), Sun Yat-sen University 
    | My work includes collecting course materials, writing documents and giving the lecture on chapter 4 "Introduction to Network Security".
 
 Extracurricular activities
 --------------------------
 
- - | *Jan 2011 - Sept 2011*
-   | Organize several events for local **LUG** as **volunteer**, including Software Freedom Day, Ubuntu Release Party, etc.
+ - | *Jan 2011 - Nov 2011*
+   | Organized five events for local **LUG** as a **volunteer**, including Software Freedom Day, Ubuntu Release Party, etc.
 
  - | *Jun 2009 - Jul 2009*
-   | **Teach** in Kaili city, Gui Zhou province as a **volunteer**.
+   | **Teach** in Kaili city, Guizhou Province as a **volunteer**.
 
 .. Book Chapter
 .. ============
@@ -55,32 +55,32 @@ Extracurricular activities
 
 Honors
 ======
- - | *2010*
+ - | *Nov 2010*
    | Outstanding student scholarship of Sun Yat-sen University.
 
  - | *May 2010*
    | Outstanding team in the third Google public welfare creativity competition.
 
- - | *2009*
+ - | *Nov 2009*
    | Outstanding student scholarship of Sun Yat-sen University.
 
 
 Membership & Affiliations
 =========================
  - | *Jul 2010 - Present* 
-   | Guangdong Key Laboratory of Information Security Technology (Research Assistant)
+   | Research Assistant, Guangdong Key Laboratory of Information Security Technology
 
  - | *Dec 2008 - Present* 
-   | MCDoing studio of school of Mathematics, Sun Yat-sen University (Member)
+   | Member, MCDoing studio of school of Mathematics, Sun Yat-sen University
 
  - | *Oct 2008 - Sept 2011* 
-   | Network center of Sun Yat-sen University (Student Network Administrator)
+   | Student Network Administrator, Network center of Sun Yat-sen University
 
  - | *Oct 2008 - Oct 2010* 
-   | Volunteer teaching team of Sun Yat-sen University (Teacher and Technical Adviser)
+   | Teacher and Technical Adviser, Volunteer teaching team of Sun Yat-sen University
 
  - | *Sept 2008 - Sept 2009* 
-   | Network department of student union in Sun Yat-sen University (Chief Programmer)
+   | Chief Programmer, Network department of student union in Sun Yat-sen University
 
 Standard test
 =============
@@ -93,10 +93,10 @@ Standard test
 Interests 
 ==================
  - Coding
+ - Linux and free-software
  - Painting
  - Playing guitar
  - Taichi (Yang style)
  - Soccer (freestyle)
  - Travel and hiking
- - Linux and free-software
  - Playing magic tricks
