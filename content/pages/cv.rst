@@ -5,11 +5,11 @@ Personal information
 ====================
 :Name:          Qingping Hou
 :Date of Birth: Oct 30 1989
-:Email:         qingping.hou {AT} gmail (dot) com
+:Email:         qingping.hou [AT] gmail (dot) com
 
 Education
 ======================
- - | *Sep 2008 - Present*
+ - | *Sept 2008 - Present*
    | **B.S.** in Information and Computational Science, School of Mathematics and Computational Science, Sun Yat-sen University. 
    | Grading scale 86/100 (Over-all), 89/100 (Junior), 88/100 (Major)
 
@@ -25,7 +25,7 @@ Experience
 Research 
 -------------------
 
-  I joined Guangdong Key Laboratory of Information Security Technology in July 2010. My research group focus on Trusted Computing, Secure Operating System, Cryptography, ACL and Network Vulnerability. 
+  I joined Guangdong Key Laboratory of Information Security Technology in July 2010. My research group focus on Trusted Computing, Secure Operating System, Cryptography, ACL and Network Vulnerability Analysis. 
 
   Together with other researchers in the lab, we developed a demo for Trusted Operating System based on Linux.
 
@@ -34,13 +34,13 @@ Teaching
 
  - | *Jul 2011 - Aug 2011*
    | **Teaching Assistant**, Sun Yat-sen University, undergraduate "Modern Website Security Technology" (Google Open Course)
-   | My work includes collecting course materials, writing documents and giving the lecture on chaper4 "Introduction to Network Security".
+   | My work includes collecting course materials, writing documents and giving the lecture on chapter 4 "Introduction to Network Security".
 
 Extracurricular activities
 --------------------------
 
- - | *Jan 2011 - Sep 2011*
-   | Organize serval events for local **LUG** as **volunteer**, including Software Freedom Day, Ubuntu Release Party, etc.
+ - | *Jan 2011 - Sept 2011*
+   | Organize several events for local **LUG** as **volunteer**, including Software Freedom Day, Ubuntu Release Party, etc.
 
  - | *Jun 2009 - Jul 2009*
    | **Teach** in Kaili city, Gui Zhou province as a **volunteer**.
@@ -56,28 +56,31 @@ Extracurricular activities
 Honors
 ======
  - | *2010*
-   | Outstanding student scholarship of Sun Yat-sen University (The Third Prize).
+   | Outstanding student scholarship of Sun Yat-sen University.
 
  - | *May 2010*
    | Outstanding team in the third Google public welfare creativity competition.
 
  - | *2009*
-   | Outstanding student scholarship of Sun Yat-sen University (The Third Prize).
+   | Outstanding student scholarship of Sun Yat-sen University.
 
 
 Membership & Affiliations
 =========================
  - | *Jul 2010 - Present* 
-   | Guangdong Key Laboratory of Information Security Technology
+   | Guangdong Key Laboratory of Information Security Technology (Research Assistant)
 
- - | *Oct 2008 - Sep 2011* 
-   | Network center of Sun Yat-sen University
+ - | *Dec 2008 - Present* 
+   | MCDoing studio of school of Mathematics, Sun Yat-sen University (Member)
+
+ - | *Oct 2008 - Sept 2011* 
+   | Network center of Sun Yat-sen University (Student Network Administrator)
 
  - | *Oct 2008 - Oct 2010* 
-   | Volunteer teaching team of Sun Yat-sen University
+   | Volunteer teaching team of Sun Yat-sen University (Teacher and Technical Adviser)
 
- - | *Sep 2008 - Sep 2009* 
-   | Network department of student union in Sun Yat-sen University
+ - | *Sept 2008 - Sept 2009* 
+   | Network department of student union in Sun Yat-sen University (Chief Programmer)
 
 Standard test
 =============
@@ -89,11 +92,11 @@ Standard test
 
 Interests 
 ==================
- - Coding of course
+ - Coding
  - Painting
  - Playing guitar
  - Taichi (Yang style)
- - Soccer (Mostly freestyle)
+ - Soccer (freestyle)
  - Travel and hiking
- - Linux and freesoftware
+ - Linux and free-software
  - Playing magic tricks
