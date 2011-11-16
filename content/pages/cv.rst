@@ -5,7 +5,7 @@ Personal information
 ====================
 :Name:          Qingping Hou
 :Date of Birth: Oct 30 1989
-:Email:         qingping.hou [AT] gmail (dot) com
+:Email:         qingping {dot} hou [AT] gmail {dot} com
 
 Education
 ======================
@@ -84,7 +84,7 @@ Membership & Affiliations
 
 Standard test
 =============
- - GRE V 630(91%), Q 800(94%), AW 4(45%)
+ - GRE V 630(91%), Q 800(94%), AW 4(48%)
  - TOEFL 103 (Reading 29, Listening 28, Speaking 22, Writing 24)
 
 .. GRE  2010/10/23
