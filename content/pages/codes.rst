@@ -16,11 +16,11 @@ As Author
 
  - MarkdownPage_
    
-   A simple script that generates html page with template file and markdown file as input 
+   A simple script that generates html page with template file and markdown file as input.
 
  - DebugOnline_
 
-   A **web app** whose features include compiling, running and debugging your C codes on online. Currently, it is just a demo that we finished at the first **hackathon** event held in China.
+   A **web app** whose features include compiling, running and debugging your C codes. Currently, it is just a demo that we finished at the first **hackathon** event held in China.
 
  - NoMoreRestriction_
 
