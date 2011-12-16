@@ -14,6 +14,10 @@ As Author
 
    A **H3C client** written in **Python**. Used to pass the authentication of SYSU's campus net.
 
+ - asciidoc-deckjs_
+
+   deck.js backend for AsciiDoc.
+
  - MarkdownPage_
    
    A simple script that generates html page with template file and markdown file as input.
@@ -30,6 +34,7 @@ As Author
 .. _MarkdownPage: https://github.com/houqp/markdownpage
 .. _DebugOnline: https://github.com/houqp/DebugOnline
 .. _NoMoreRestriction: https://github.com/houqp/NoMoreRestriction
+.. _asciidoc-deckjs: htts://github.com/houqp/asciidoc-deckjs
 
 As Contributor
 ==============

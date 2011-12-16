@@ -42,8 +42,13 @@ Extracurricular activities
  - | *Jan 2011 - Nov 2011*
    | Organized five events for local **LUG** as a **volunteer**, including Software Freedom Day, Ubuntu Release Party, etc.
 
+ - | *Mar 2010 - Apr 2010*
+   | Helped translate the official documents for Puppet project. My work focused on the core part, Language Guide.
+
  - | *Jun 2009 - Jul 2009*
    | **Taught** in Kaili city, Guizhou Province as a **volunteer**.
+
+.. 广交会：http://mathserve.blog.163.com/blog/static/11478889520093282922926/
 
 .. Book Chapter
 .. ============
@@ -72,6 +77,9 @@ Membership & Affiliations
 
  - | *Dec 2008 - Present* 
    | MCDoing studio of school of Mathematics, Sun Yat-sen University, Member
+
+ - | *Oct 2008 - Present*
+   | Soccer team of Department of Scientific Computation and Computer Applications, Member
 
  - | *Oct 2008 - Sept 2011* 
    | Network center of Sun Yat-sen University, Student Network Administrator 
