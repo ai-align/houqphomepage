@@ -36,6 +36,7 @@ As Author
 .. _NoMoreRestriction: https://github.com/houqp/NoMoreRestriction
 .. _asciidoc-deckjs: https://github.com/houqp/asciidoc-deckjs
 
+
 As Contributor
 ==============
 
@@ -44,8 +45,14 @@ As Contributor
    A tool to translate BibTex bibliographic entries to DocBook XML.
    Bibdb was originally written by `Sylvain Schmitz`_ and I've proudly become its maintainer since *Aug 2011*.
 
+ - vim-dokuwiki_
+
+   A vim syntax plugin for dokuwiki.
+
 .. _Sylvain Schmitz: http://www.lsv.ens-cachan.fr/~schmitz
 .. _Bibdb: http://houqp.github.com/bibdb
+.. _vim-dokuwiki: https://github.com/nblock/vim-dokuwiki
+
 
 Misc
 ====
