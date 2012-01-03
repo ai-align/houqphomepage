@@ -34,7 +34,7 @@ As Author
 .. _MarkdownPage: https://github.com/houqp/markdownpage
 .. _DebugOnline: https://github.com/houqp/DebugOnline
 .. _NoMoreRestriction: https://github.com/houqp/NoMoreRestriction
-.. _asciidoc-deckjs: https://github.com/houqp/asciidoc-deckjs
+.. _asciidoc-deckjs: http://houqp.github.com/asciidoc-deckjs
 
 
 As Contributor
