@@ -6,6 +6,7 @@
   <title>QingpingHou@homepage:</title>
   <meta charset="utf-8"/>
   <link rel="stylesheet" type="text/css" href=".././theme/css/style.css"/>
+	<!--<script src=".././theme/prefixfree.min.js"></script>-->
   <link href=".././feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="QingpingHou@homepage: ATOM Feed" />
 
   <link href=".././feeds/all.rss.xml" type="application/atom+xml" rel="alternate" title="QingpingHou@homepage: RSS Feed" />
@@ -84,15 +85,17 @@
   <header>
 
 
-    <h1>QingpingHou@homepage:</h1>
-
+<h1>
+	<span id ="title">QingpingHou@homepage:</span>
+	<div id="prompt">~/Codes $ </div>
+	<div id="command">cat ./*</div>
+</h1>
 
 
   </header>
 
   <div id="content_body">
 
-<h1><div id="prompt">~/Codes $ </div><div id="command">cat ./*</div></h1>
 <article>
   <p>This page lists softwares that I wrote for fun. Since I love freesoftware, I also contribute to some interesting projects.</p>
 <p>You should be able to find some of my codes in <a class="reference external" href="https://github.com/houqp">my github page</a>.</p>
@@ -103,7 +106,7 @@
 <li><p class="first"><a class="reference external" href="https://github.com/houqp/pyh3c">PyH3C</a></p>
 <p>A <strong>H3C client</strong> written in <strong>Python</strong>. Used to pass the authentication of SYSU's campus net.</p>
 </li>
-<li><p class="first"><a class="reference external" href="https://github.com/houqp/asciidoc-deckjs">asciidoc-deckjs</a></p>
+<li><p class="first"><a class="reference external" href="http://houqp.github.com/asciidoc-deckjs">asciidoc-deckjs</a></p>
 <p>deck.js backend for AsciiDoc.</p>
 </li>
 <li><p class="first"><a class="reference external" href="https://github.com/houqp/markdownpage">MarkdownPage</a></p>
@@ -158,7 +161,7 @@ Bibdb was originally written by <a class="reference external" href="http://www.l
 
   <footer>
     
-    <small>Last update: 01/03/2012</small>
+    <small>Last update: 01/06/2012</small>
     </hr>
     <small>Powered by             <a href="https://github.com/ametaireau/pelican">Pelican</a>,             <a href="http://drydrop.binaryage.com/">Drydrop</a>,             <a href="https://github.com">Github</a> and             <a href="https://appengine.google.com">Appengine.</a></small>
     <small>Designed by QingpingHou</small>
@@ -182,6 +185,8 @@ Bibdb was originally written by <a class="reference external" href="http://www.l
     document.getElementById('command').innerHTML = ori_title;
   }
 </script>
+
+<!--for background patterns-->
 
   <!--[if lt IE 7]>
   <div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: relative;'>
