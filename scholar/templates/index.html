@@ -14,9 +14,15 @@
     </ul>
 {% endblock navi %}
 
+{% block sitename %}
+<h1>
+	<span id ="title">{{ SITENAME }}</span>
+	<div id="prompt">~ $ </div>
+	<div id="command">_</div>
+</h1>
+{% endblock sitename %}
 
 {% block content %}
-<h1><div id="prompt">~ $ </div><div id="command">_</div></h1>
 <article>
 {% for article in articles_page.object_list %}
 {% if article.title == 'index_content' %}

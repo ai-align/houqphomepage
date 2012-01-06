@@ -1,7 +1,14 @@
 {% extends "base.html" %}
 
+{% block sitename %}
+<h1>
+	<span id ="title">{{ SITENAME }}</span>
+	<div id="prompt">~/{{page.title}} $ </div>
+	<div id="command">cat ./*</div>
+</h1>
+{% endblock sitename %}
+
 {% block content  %}
-<h1><div id="prompt">~/{{page.title}} $ </div><div id="command">cat ./*</div></h1>
 <article>
   {{ page.content }}
 </article>
