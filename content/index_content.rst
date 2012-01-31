@@ -16,8 +16,8 @@ An old boy who dreams to become a real Geek and Hacker.
 
 You may also want to take a look at my Blog_ and Wiki_ which are mainly written in Chinese.
 
-.. _Blog: http://www.houqp.com
-.. _Wiki: http://notes.houqp.com
+.. _Blog: http://blog.houqp.me
+.. _Wiki: http://notes.houqp.me
 
 
 Research Interests
