@@ -15,7 +15,7 @@ FEED_RSS = 'feeds/all.rss.xml'
 FEED = 'feeds/all.atom.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
-THEME = '/home/dave/documents/code/web/houqp.me/scholar'
+THEME = './scholar'
 CSS_FILE = 'style.css'
 
 MENUITEMS = (('Home', SITEURL),

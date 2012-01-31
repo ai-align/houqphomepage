@@ -16,7 +16,8 @@ h1,h2,h3,h4,p,form,fieldset,legend,a,hr,ul,li {
 header, nav, footer, article, small {display:block;}
 
 html {
-  padding:1em;
+  padding:1.5em;
+  padding-bottom:3em;
 	background:
 		-webkit-radial-gradient(black 15%, transparent 16%) 0 0,
 		-webkit-radial-gradient(black 15%, transparent 16%) 8px 8px,
@@ -112,7 +113,7 @@ header {
   padding:1em;
   background-color:#2A2A2A;
   color:rgb(175, 224, 145);
-	box-shadow:inset 5px 5px 10px #000;
+	box-shadow:inset 0px 0px 20px #000;
 	margin-bottom:2em;
 }
 
