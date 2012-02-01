@@ -1,6 +1,7 @@
-*.tex 
 *.dvi 
-*.aux 
-*.log 
 *.out
 *.swp
+cv/cv_houqp.log
+cv/cv_houqp.tex
+cv/cv_houqp.aux
+cv/cv_houqp.pdf
