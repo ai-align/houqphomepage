@@ -26,14 +26,10 @@ As Author
 
    A **web app** whose features include compiling, running and debugging your C codes. Currently, it is just a demo that we finished at the first **hackathon** event held in China.
 
- - NoMoreRestriction_
-
-   A very very simple **Chrome extension** that aims to disable annoying java scripts on some sites.
 
 .. _PyH3C: https://github.com/houqp/pyh3c
 .. _MarkdownPage: https://github.com/houqp/markdownpage
 .. _DebugOnline: https://github.com/houqp/DebugOnline
-.. _NoMoreRestriction: https://github.com/houqp/NoMoreRestriction
 .. _asciidoc-deckjs: http://houqp.github.com/asciidoc-deckjs
 
 
@@ -49,9 +45,14 @@ As Contributor
 
    A vim syntax plugin for dokuwiki.
 
+ - kindlepdfviewer_
+
+   A PDF viewer made for e-ink framebuffer devices, using muPDF.
+
 .. _Sylvain Schmitz: http://www.lsv.ens-cachan.fr/~schmitz
 .. _Bibdb: http://houqp.github.com/bibdb
 .. _vim-dokuwiki: https://github.com/nblock/vim-dokuwiki
+.. _kindlepdfviewer: https://github.com/hwhw/kindlepdfviewer
 
 
 Misc
