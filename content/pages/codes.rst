@@ -45,8 +45,8 @@ As Contributor
  - kindlepdfviewer_
 
    The ultimate ebook viewer for e-ink framebuffer devices, using muPDF,
-   libDjVulibre and CREngine. The formats it supports includes: pdf, djvu,
-   epub, txt, chm, html, htm, fb2, zip, mobi, doc, rtf, xps and cbz.
+   libDjVulibre and CREngine. Supported formats includes: pdf, djvu, epub, txt,
+   chm, html, htm, fb2, zip, mobi, doc, rtf, xps and cbz.
 
  - Bibdb_
 
