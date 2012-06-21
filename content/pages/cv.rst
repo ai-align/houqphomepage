@@ -11,7 +11,7 @@ Education
 ======================
  - | *Sept 2008 - Present*
    | **B.S.** in Information and Computational Science, School of Mathematics and Computational Science, Sun Yat-sen University. 
-   | Grading scale 86/100 (Over-all), 89/100 (Junior), 88/100 (Major)
+   | Grading scale 86.7/100 (Over-all), 89.9/100 (Junior), 88/100 (Major)
 
  - | *Mar 2010 - Jul 2010*
    | Exchange to Jilin University for one semester.
