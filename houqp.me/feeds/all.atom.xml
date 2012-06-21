@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>QingpingHou@homepage:</title><link href="http://about.houqp.me" rel="alternate"></link><link href="http://about.houqp.me/feeds/all.atom.xml" rel="self"></link><id>http://about.houqp.me</id><updated>2012-01-30T11:57:58Z</updated><entry><title>index_content</title><link href="http://about.houqp.me/index_content.html" rel="alternate"></link><updated>2012-01-30T11:57:58Z</updated><author><name>Qingping Hou</name></author><id>tag:about.houqp.me,2012-01-30:/index_content.html/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Welcome to my page!&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>QingpingHou@homepage:</title><link href="http://about.houqp.me" rel="alternate"></link><link href="http://about.houqp.me/feeds/all.atom.xml" rel="self"></link><id>http://about.houqp.me</id><updated>2012-06-21T23:09:37Z</updated><entry><title>index_content</title><link href="http://about.houqp.me/index_content.html" rel="alternate"></link><updated>2012-06-21T23:09:37Z</updated><author><name>Qingping Hou</name></author><id>tag:about.houqp.me,2012-06-21:/index_content.html/</id><summary type="html">&lt;p&gt;&lt;strong&gt;Welcome to my page!&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
 &lt;img alt="houqp" src="pictures/houqp.jpg" /&gt;
 &lt;/div&gt;
 &lt;div class="section" id="about-me"&gt;
 &lt;h2&gt;About Me&lt;/h2&gt;
-&lt;p&gt;An old boy who dreams to become a real Geek and Hacker.&lt;/p&gt;
+&lt;p&gt;I am currently a Master student in CMU.&lt;/p&gt;
 &lt;p&gt;You may also want to take a look at my &lt;a class="reference external" href="http://blog.houqp.me"&gt;Blog&lt;/a&gt; and &lt;a class="reference external" href="http://notes.houqp.me"&gt;Wiki&lt;/a&gt; which are mainly written in Chinese.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="research-interests"&gt;
