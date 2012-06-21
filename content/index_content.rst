@@ -12,7 +12,7 @@ index_content
 About Me
 ========
 
-An old boy who dreams to become a real Geek and Hacker.
+I am currently a Master student in CMU.
 
 You may also want to take a look at my Blog_ and Wiki_ which are mainly written in Chinese.
 
