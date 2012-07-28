@@ -4,7 +4,6 @@ Vita
 Personal information
 ====================
 :Name:          Qingping Hou
-:Date of Birth: Oct 30 1989
 :Email:         qingping {dot} hou [AT] gmail {dot} com
 
 Education
