@@ -8,7 +8,10 @@ Personal information
 
 Education
 ======================
- - | *Sept 2008 - Present*
+ - | *Sept 2012 - Present*
+   | **M.S.** in Information Security Technology and Management, Information Networking Institute, Carnegie Mellon University.
+
+ - | *Sept 2008 - Jul 2012*
    | **B.S.** in Information and Computational Science, School of Mathematics and Computational Science, Sun Yat-sen University. 
    | Grading scale 86.7/100 (Over-all), 89.9/100 (Junior), 88/100 (Major)
 
@@ -20,6 +23,18 @@ Education
 
 Experience
 ==========
+
+Projects 
+-------------------
+
+ - | **KindlePdfViewer**
+   | The ultimate ebook viewer for Eink Kindle device which supports all the popular formats.
+
+ - | **PyH3C**
+   | An opensource H3C 802.1X client and server written in Python.
+
+ - | **asciidoc-deckjs**
+   | deck.js backend for AsciiDoc.
 
 Research 
 -------------------
@@ -89,10 +104,10 @@ Membership & Affiliations
  - | *Sept 2008 - Sept 2009* 
    | Network department of student union in Sun Yat-sen University, Chief Programmer
 
-Standard test
-=============
- - GRE V 630(91%), Q 800(94%), AW 4(48%)
- - TOEFL 103 (Reading 29, Listening 28, Speaking 22, Writing 24)
+.. Standard test
+.. =============
+..  - GRE V 630(91%), Q 800(94%), AW 4(48%)
+..  - TOEFL 103 (Reading 29, Listening 28, Speaking 22, Writing 24)
 
 .. GRE  2010/10/23
 .. TOEFL 2011/02/26
