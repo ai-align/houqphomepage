@@ -12,8 +12,10 @@ DEFAULT_LANG = 'en'
 DEFAULT_PAGINATION = 2
 
 FEED_RSS = 'feeds/all.rss.xml'
-FEED = 'feeds/all.atom.xml'
+FEED_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+
+TIMEZONE = '+404251-0740023'
 
 THEME = './scholar'
 CSS_FILE = 'style.css'
