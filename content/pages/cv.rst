@@ -1,11 +1,6 @@
 Vita
 ################
 
-Personal information
-====================
-:Name:          Qingping Hou
-:Email:         qingping {dot} hou [AT] gmail {dot} com
-
 Education
 ======================
  - | *Sept 2012 - Present*
@@ -13,35 +8,46 @@ Education
 
  - | *Sept 2008 - Jul 2012*
    | **B.S.** in Information and Computational Science, School of Mathematics and Computational Science, Sun Yat-sen University. 
-   | Grading scale 86.7/100 (Over-all), 89.9/100 (Junior), 88/100 (Major)
+
 
  - | *Mar 2010 - Jul 2010*
-   | Exchange to Jilin University for one semester.
+   | Exchange to Jilin University for one semester, taking advanced courses in both Math and Computer Science department.
+
+.. B.S. GPA
+.. Grading scale 86.7/100 (Over-all), 89.9/100 (Junior), 88/100 (Major)
 
 .. Research Interests
 .. ==================
 
-Experience
-==========
 
 Projects 
--------------------
+========
 
- - | **KindlePdfViewer**
-   | The ultimate ebook viewer for Eink Kindle device which supports all the popular formats.
+ - | **KindlePdfViewer** (Core developer)
+   | The ultimate ebook viewer for Eink Kindle device which supports all the popular formats and many advanced features.
 
- - | **PyH3C**
+ - | **PyH3C** (Author)
    | An opensource H3C 802.1X client and server written in Python.
 
- - | **asciidoc-deckjs**
+ - | **asciidoc-deckjs** (Author)
    | deck.js backend for AsciiDoc.
+
+
+Skills
+======
+
+ - C, Python, Lua, C++, Javascript, Shell, Ruby, HTML/CSS, Assembly, TeX, PHP, ASP
+ - Linux, Mac, Windows
+ - GIMP, Photoshop, Painter
+
+
+Experience
+==========
 
 Research 
 -------------------
 
-  In July 2010, I joined Guangdong Key Laboratory of Information Security Technology. My research group focuses on Trusted Computing, Secure Operating System, Cryptography, ACL and Network Vulnerability Analysis. 
-
-  Together with other researchers in the lab, we developed a demo for Trusted Operating System based on Linux.
+  In July 2010, I joined Guangdong Key Laboratory of Information Security Technology. My research group focuses on Trusted Computing, Secure Operating System, Cryptography, ACL and Network Vulnerability Analysis. Together with other researchers, we developed a demo for Trusted Operating System based on Linux.
 
 Teaching
 --------
@@ -59,8 +65,8 @@ Extracurricular activities
  - | *Mar 2010 - Apr 2010*
    | Helped translate the official documents for Puppet project. My work focused on the core part, Language Guide.
 
- - | *Jun 2009 - Jul 2009*
-   | **Taught** in Kaili city, Guizhou Province as a **volunteer**.
+.. - | *Jun 2009 - Jul 2009*
+..   | **Taught** in Kaili city, Guizhou Province as a **volunteer**.
 
 .. 广交会：http://mathserve.blog.163.com/blog/static/11478889520093282922926/
 
@@ -72,37 +78,38 @@ Extracurricular activities
 .. Publications
 .. ============
 
-Honors
-======
- - | *Nov 2010*
-   | Outstanding student scholarship of Sun Yat-sen University.
-
- - | *May 2010*
-   | Outstanding team in the third Google public welfare creativity competition.
-
- - | *Nov 2009*
-   | Outstanding student scholarship of Sun Yat-sen University.
-
-
 Membership & Affiliations
 =========================
- - | *Jul 2010 - Present* 
+ - | *Jul 2010 - Jul 2012* 
    | Guangdong Key Laboratory of Information Security Technology, Research Assistant
-
- - | *Dec 2008 - Present* 
-   | MCDoing studio of school of Mathematics, Sun Yat-sen University, Member
-
- - | *Oct 2008 - Present*
-   | Soccer team of Department of Scientific Computation and Computer Applications, Member
 
  - | *Oct 2008 - Sept 2011* 
    | Network center of Sun Yat-sen University, Student Network Administrator 
 
+ - | *Sept 2008 - Sept 2009* 
+   | Network department of student union in Sun Yat-sen University, Chief Programmer
+
  - | *Oct 2008 - Oct 2010* 
    | Volunteer teaching team of Sun Yat-sen University, Teacher and Technical Adviser
 
- - | *Sept 2008 - Sept 2009* 
-   | Network department of student union in Sun Yat-sen University, Chief Programmer
+ - | *Dec 2008 - Present* 
+   | MCDoing studio of school of Mathematics, Sun Yat-sen University, Member
+
+ - | *Oct 2008 - Jul 2012*
+   | Soccer team of Department of Scientific Computation and Computer Applications, Member
+
+
+Honors
+======
+ - | *May 2010*
+   | Outstanding team in the third Google public welfare creativity competition.
+
+ - | *Nov 2010*
+   | Outstanding student scholarship of Sun Yat-sen University.
+
+ - | *Nov 2009*
+   | Outstanding student scholarship of Sun Yat-sen University.
+
 
 .. Standard test
 .. =============
@@ -114,11 +121,6 @@ Membership & Affiliations
 
 Interests 
 ==================
- - Coding
- - Linux and free-software
- - Painting
- - Playing guitar
- - Taichi (Yang style)
- - Soccer (freestyle)
- - Travel and hiking
- - Playing magic tricks
+ - Coding, Linux, free-software and opensource
+ - Painting, Playing guitar and magic tricks
+ - Taichi (Yang style), Soccer (freestyle), Travel and hiking
