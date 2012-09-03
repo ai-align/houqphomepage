@@ -37,7 +37,7 @@ Skills
 ======
 
  - C, Python, Lua, C++, Javascript, Shell, Ruby, HTML/CSS, Assembly, TeX, PHP, ASP
- - Linux, Mac, Windows
+ - GNU/Linux, Mac, Windows
  - GIMP, Photoshop, Painter
 
 
