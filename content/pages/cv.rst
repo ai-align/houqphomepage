@@ -121,6 +121,6 @@ Honors
 
 Interests 
 ==================
- - Coding, GNU\Linux, free-software and opensource
+ - Coding, GNU/Linux, free-software and opensource
  - Painting, Playing guitar and magic tricks
  - Taichi (Yang style), Soccer (freestyle), Travel and hiking
