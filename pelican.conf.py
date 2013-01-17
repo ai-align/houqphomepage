@@ -19,12 +19,14 @@ TIMEZONE = 'UTC'
 
 THEME = './scholar'
 CSS_FILE = 'style.css'
+CV_CSS_FILE = 'cv.css'
 
 MENUITEMS = (('Home', SITEURL),
              #('Research', SITEURL + '/pages/research.html'),
              ('Teaching', SITEURL + '/pages/teaching.html'),
              ('Codes', SITEURL + '/pages/codes.html'),
-             ('Vita', SITEURL + '/pages/vita.html'),
+             #('Vita', SITEURL + '/pages/vita.html'),
+             ('Vita', SITEURL + '/download/cv_houqp.pdf'),
              ('Misc', SITEURL + '/pages/misc.html'),)
              #('Courses', SITEURL + '/pages/courses.html'),)
 
