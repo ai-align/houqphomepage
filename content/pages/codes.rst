@@ -21,9 +21,9 @@ As Author
 
    deck.js backend for AsciiDoc.
 
- - longkey_
+ - Longkey_
 
-   Online batch music downloader written in Perl. This is a fork of the original longkey project.
+   Online batch music downloader written in Perl. This is a fork of the original longkey_ project.
 
  - MarkdownPage_
    
@@ -41,7 +41,8 @@ As Author
 .. _MarkdownPage: https://github.com/houqp/markdownpage
 .. _DebugOnline: https://github.com/houqp/DebugOnline
 .. _asciidoc-deckjs: https://houqp.github.com/asciidoc-deckjs
-.. _longkey: https://github.com/houqp/longkey
+.. _Longkey: https://github.com/houqp/longkey
+.. _longkey: http://code.google.com/p/longkey
 
 
 As Contributor
