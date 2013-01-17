@@ -23,7 +23,7 @@ As Author
 
  - Longkey_
 
-   Online batch music downloader written in Perl. This is a fork of the original longkey_ project.
+   Online batch music downloader written in Perl. This is a fork of the `original longkey`_ project.
 
  - MarkdownPage_
    
@@ -42,7 +42,7 @@ As Author
 .. _DebugOnline: https://github.com/houqp/DebugOnline
 .. _asciidoc-deckjs: https://houqp.github.com/asciidoc-deckjs
 .. _Longkey: https://github.com/houqp/longkey
-.. _longkey: http://code.google.com/p/longkey
+.. _original longkey: http://code.google.com/p/longkey
 
 
 As Contributor
