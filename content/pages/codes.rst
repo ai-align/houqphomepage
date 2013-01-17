@@ -21,6 +21,10 @@ As Author
 
    deck.js backend for AsciiDoc.
 
+ - longkey_
+
+   Online batch music downloader written in Perl. This is a fork of the original longkey project.
+
  - MarkdownPage_
    
    A simple script that generates html page with template file and markdown
@@ -36,17 +40,22 @@ As Author
 .. _PyH3C: https://github.com/houqp/pyh3c
 .. _MarkdownPage: https://github.com/houqp/markdownpage
 .. _DebugOnline: https://github.com/houqp/DebugOnline
-.. _asciidoc-deckjs: http://houqp.github.com/asciidoc-deckjs
+.. _asciidoc-deckjs: https://houqp.github.com/asciidoc-deckjs
+.. _longkey: https://houqp.github.com/longkey
 
 
 As Contributor
 ==============
 
- - kindlepdfviewer_
+ - KPV_
 
    The ultimate ebook viewer for e-ink framebuffer devices, using muPDF,
    libDjVulibre and CREngine. Supported formats includes: pdf, djvu, epub, txt,
    chm, html, htm, fb2, zip, mobi, doc, rtf, xps and cbz.
+
+ - CoolReader_
+
+   The famous Cool Reader. I actually submitted two tiny patches to its rendering engine.
 
  - Bibdb_
 
@@ -59,10 +68,11 @@ As Contributor
    A vim syntax plugin for dokuwiki.
 
 
-.. _kindlepdfviewer: https://github.com/hwhw/kindlepdfviewer
+.. _KPV: https://github.com/hwhw/kindlepdfviewer
 .. _Sylvain Schmitz: http://www.lsv.ens-cachan.fr/~schmitz
 .. _Bibdb: http://houqp.github.com/bibdb
 .. _vim-dokuwiki: https://github.com/nblock/vim-dokuwiki
+.. _coolreader: http://sourceforge.net/projects/crengine
 
 
 .. Misc
