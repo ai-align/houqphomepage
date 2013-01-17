@@ -41,7 +41,7 @@ As Author
 .. _MarkdownPage: https://github.com/houqp/markdownpage
 .. _DebugOnline: https://github.com/houqp/DebugOnline
 .. _asciidoc-deckjs: https://houqp.github.com/asciidoc-deckjs
-.. _longkey: https://houqp.github.com/longkey
+.. _longkey: https://github.com/houqp/longkey
 
 
 As Contributor
