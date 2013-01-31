@@ -5,7 +5,7 @@ index_content
 
 **Welcome to my page!**
 
-.. figure:: pictures/houqp.jpg
+.. figure:: static/pictures/houqp.jpg
    :scale: 100 %
    :alt: houqp
    :align: center

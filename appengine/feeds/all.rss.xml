@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>QingpingHou@homepage:</title><link>http://qingping-hou.appspot.com/</link><description></description><atom:link href="http://qingping-hou.appspot.com/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 31 Jan 2013 00:00:00 +0000</lastBuildDate><item><title>index_content</title><link>http://qingping-hou.appspot.com/index_content.html</link><description>&lt;p&gt;&lt;strong&gt;Welcome to my page!&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
-&lt;img alt="houqp" src="pictures/houqp.jpg" /&gt;
+&lt;img alt="houqp" src="static/pictures/houqp.jpg" /&gt;
 &lt;/div&gt;
 &lt;div class="section" id="about-me"&gt;
 &lt;h2&gt;About Me&lt;/h2&gt;
