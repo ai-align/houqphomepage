@@ -68,12 +68,16 @@ As Contributor
 
    A vim syntax plugin for dokuwiki.
 
+ - tomorrow-theme_
+
+   Most popular set of themes for hackers.
 
 .. _KPV: https://github.com/hwhw/kindlepdfviewer
 .. _Sylvain Schmitz: http://www.lsv.ens-cachan.fr/~schmitz
 .. _Bibdb: http://houqp.github.com/bibdb
 .. _vim-dokuwiki: https://github.com/nblock/vim-dokuwiki
 .. _coolreader: http://sourceforge.net/projects/crengine
+.. _tomorrow-theme: https://github.com/chriskempson/tomorrow-theme
 
 
 .. Misc
