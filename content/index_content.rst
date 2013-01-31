@@ -1,6 +1,8 @@
 index_content
 #############
 
+:date: 2013-01-31
+
 **Welcome to my page!**
 
 .. figure:: pictures/houqp.jpg
