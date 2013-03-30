@@ -21,12 +21,16 @@ As Author
 
    deck.js backend for AsciiDoc.
 
+ - ownPrey_
+
+   Prey app for ownCloud.
+
  - Longkey_
 
    Online batch music downloader written in Perl. This is a fork of the `original longkey`_ project.
 
  - MarkdownPage_
-   
+
    A simple script that generates html page with template file and markdown
    file as input.
 
@@ -43,16 +47,21 @@ As Author
 .. _asciidoc-deckjs: https://houqp.github.com/asciidoc-deckjs
 .. _Longkey: https://github.com/houqp/longkey
 .. _original longkey: http://code.google.com/p/longkey
+.. ownPrey: https://github.com/houqp/ownPrey
 
 
 As Contributor
 ==============
 
- - KPV_
+ - KOReader_
 
    The ultimate ebook viewer for e-ink framebuffer devices, using muPDF,
    libDjVulibre and CREngine. Supported formats includes: pdf, djvu, epub, txt,
    chm, html, htm, fb2, zip, mobi, doc, rtf, xps and cbz.
+
+ - ownCloud_
+
+   Opensource personal cloud platform.
 
  - CoolReader_
 
@@ -72,12 +81,18 @@ As Contributor
 
    Most popular set of themes for hackers.
 
-.. _KPV: https://github.com/hwhw/kindlepdfviewer
+ - angular-leaflet-directive_
+
+   An AngularJs directive for leaflet map.
+
+.. _KOReader: https://github.com/koreader
+.. _ownCloud: https://github.com/owncloud
 .. _Sylvain Schmitz: http://www.lsv.ens-cachan.fr/~schmitz
 .. _Bibdb: http://houqp.github.com/bibdb
 .. _vim-dokuwiki: https://github.com/nblock/vim-dokuwiki
 .. _coolreader: http://sourceforge.net/projects/crengine
 .. _tomorrow-theme: https://github.com/chriskempson/tomorrow-theme
+.. _angular-leaflet-directive: https://github.com/tombatossals/angular-leaflet-directive
 
 
 .. Misc
