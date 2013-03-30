@@ -47,7 +47,7 @@ As Author
 .. _asciidoc-deckjs: https://houqp.github.com/asciidoc-deckjs
 .. _Longkey: https://github.com/houqp/longkey
 .. _original longkey: http://code.google.com/p/longkey
-.. ownPrey: https://github.com/houqp/ownPrey
+.. _ownPrey: https://github.com/houqp/ownPrey
 
 
 As Contributor
