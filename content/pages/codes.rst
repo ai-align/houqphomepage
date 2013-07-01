@@ -63,6 +63,14 @@ As Contributor
 
    Opensource personal cloud platform.
 
+ - python-mindwave_
+
+   Python library to interface with Neurosky Mindwave devices.
+
+ - angular-leaflet-directive_
+
+   An AngularJs directive for leaflet map.
+
  - CoolReader_
 
    The famous Cool Reader. I actually submitted two tiny patches to its rendering engine.
@@ -81,12 +89,10 @@ As Contributor
 
    Most popular set of themes for hackers.
 
- - angular-leaflet-directive_
-
-   An AngularJs directive for leaflet map.
 
 .. _KOReader: https://github.com/koreader
 .. _ownCloud: https://github.com/owncloud
+.. _python-mindwave: https://github.com/akloster/python-mindwave
 .. _Sylvain Schmitz: http://www.lsv.ens-cachan.fr/~schmitz
 .. _Bibdb: http://houqp.github.com/bibdb
 .. _vim-dokuwiki: https://github.com/nblock/vim-dokuwiki

@@ -1,6 +1,6 @@
 .PHONY:all clean push test
 
-all:make_cv generate_site 
+all:make_cv generate_site
 
 generate_site:houqp.me appengine
 
